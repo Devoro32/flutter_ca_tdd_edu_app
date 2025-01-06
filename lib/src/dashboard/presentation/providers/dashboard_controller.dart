@@ -20,11 +20,10 @@ class DashboardController extends ChangeNotifier {
       create: (_) => TabNavigator(TabItem(child: const Placeholder())),
       child: const PersistentView(),
     ),
-    //TODO: When adding profiles
-    // ChangeNotifierProvider(
-    //   create: (_) => TabNavigator(TabItem(child: const ProfileView())),
-    //   child: const PersistentView(),
-    // ),
+    ChangeNotifierProvider(
+      create: (_) => TabNavigator(TabItem(child: const ProfileView())),
+      child: const PersistentView(),
+    ),
   ];
 
   List<Widget> get screens => _screens;

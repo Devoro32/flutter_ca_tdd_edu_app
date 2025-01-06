@@ -114,11 +114,11 @@ export 'package:ca_edu_bloc_app2/src/on_boarding/presentation/widgets/on_boardin
 export 'package:ca_edu_bloc_app2/src/dashboard/presentation/utils/dashboard_utils.dart';
 //export 'package:flutter/cupertino.dart';
 //profile
-// export 'package:ca_edu_bloc_app2/src/profile/presentation/refactors/profile_body.dart';
-// export 'package:ca_edu_bloc_app2/src/profile/presentation/refactors/profile_header.dart';
-// export 'package:ca_edu_bloc_app2/src/profile/presentation/views/edit_profile_view.dart';
-// export 'package:ca_edu_bloc_app2/src/profile/presentation/views/profile_view.dart';
-// export 'package:ca_edu_bloc_app2/src/profile/presentation/widgets/edit_profile_form.dart';
-// export 'package:ca_edu_bloc_app2/src/profile/presentation/widgets/edit_profile_form_field.dart';
-// export 'package:ca_edu_bloc_app2/src/profile/presentation/widgets/profile_app_bar.dart';
-// export 'package:ca_edu_bloc_app2/src/profile/presentation/widgets/user_info_card.dart';
+export 'package:ca_edu_bloc_app2/src/profile/presentation/refactors/profile_body.dart';
+export 'package:ca_edu_bloc_app2/src/profile/presentation/refactors/profile_header.dart';
+export 'package:ca_edu_bloc_app2/src/profile/presentation/views/edit_profile_view.dart';
+export 'package:ca_edu_bloc_app2/src/profile/presentation/views/profile_view.dart';
+export 'package:ca_edu_bloc_app2/src/profile/presentation/widgets/edit_profile_form.dart';
+export 'package:ca_edu_bloc_app2/src/profile/presentation/widgets/edit_profile_form_field.dart';
+export 'package:ca_edu_bloc_app2/src/profile/presentation/widgets/profile_app_bar.dart';
+export 'package:ca_edu_bloc_app2/src/profile/presentation/widgets/user_info_card.dart';
